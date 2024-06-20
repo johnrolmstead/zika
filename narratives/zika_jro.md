@@ -4,7 +4,7 @@ authors: "Jro"
 date: "June 20, 2024"
 dataset: "https://nextstrain.org/community/johnrolmstead/zika"
 ---
-```auspiceMainDisplayMarkdown
+auspiceMainDisplayMarkdown
   # Intro to NextStrain:
 here is some content. 
 
@@ -12,7 +12,6 @@ here is some content.
 - First bullet point
 
 - Second bullet point 
-```
 
 # [Cases in Singapore and Dominican Republic](https://nextstrain.org/community/johnrolmstead/zika?f_country=Singapore,Dominican%20Republic)
 
