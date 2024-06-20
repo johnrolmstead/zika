@@ -6,12 +6,7 @@ dataset: "https://nextstrain.org/community/johnrolmstead/zika"
 ---
 # [Cases in Singapore and Dominican Republic](https://nextstrain.org/community/johnrolmstead/zika?f_country=Singapore,Dominican%20Republic)
 
-# Intro to NextStrain:
-here is some content. 
-
-# Second Title:
-- First bullet point
-
-- Second bullet point 
 
 # [Map only](https://nextstrain.org/community/johnrolmstead/zika?d=tree,map&p=full)
+
+# [side by side](https://nextstrain.org/community/johnrolmstead/zika?p=grid)
