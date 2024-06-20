@@ -30,3 +30,25 @@ if you're experiences symptoms of Zika, call your healthcare provider.
 
 
 ```
+
+
+# [Part 2 content](https://nextstrain.org/community/johnrolmstead/zika)
+
+Zika virus 
+- here is some content
+
+```auspiceMainDisplayMarkdown
+  # Treament:
+if you're experiences symptoms of Zika, call your healthcare provider.
+
+  # Symptoms:
+- Fever
+
+- Rash
+
+# Zika Virus Shape
+<img src="https://raw.githubusercontent.com/taneenak/zika/main/figures/zika.png" alt="Map" width="50%" />
+
+
+```
+
