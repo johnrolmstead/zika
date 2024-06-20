@@ -16,7 +16,7 @@ dataset: "https://nextstrain.org/community/johnrolmstead/zika"
 Zika virus 
 - here is some content
 
-```auspoceMainDisplayMarkdown
+```auspiceMainDisplayMarkdown
   # Treament:
 if you're experiences symptoms of Zika, call your healthcare provider.
 
