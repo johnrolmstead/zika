@@ -20,4 +20,9 @@ Zika virus
   # Treament:
 if you're experiences symptoms of Zika, call your healthcare provider.
 
+  # Symptoms:
+- Fever
+
+- Rash
+
 ```
