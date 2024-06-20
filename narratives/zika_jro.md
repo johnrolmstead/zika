@@ -26,7 +26,7 @@ if you're experiences symptoms of Zika, call your healthcare provider.
 - Rash
 
 # Zika Virus Shape
-img src="https://raw.githubusercontent.com/taneenak/zika/main/figures/zika.png" alt="Map" width="50%" />
+<img src="https://raw.githubusercontent.com/taneenak/zika/main/figures/zika.png" alt="Map" width="50%" />
 
 
 ```
