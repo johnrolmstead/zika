@@ -2,5 +2,5 @@
 title: "zika example"
 authors: "Jro"
 date: "June 20, 2024"
-dataset: https://nextstrain.org/community/johnrolmstead/zika?tl=none/zika_jro.md
+dataset: https://nextstrain.org/community/johnrolmstead/zika_jro
 ---
