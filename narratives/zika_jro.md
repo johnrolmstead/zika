@@ -10,3 +10,5 @@ dataset: "https://nextstrain.org/community/johnrolmstead/zika"
 # [Map only](https://nextstrain.org/community/johnrolmstead/zika?d=tree,map&p=full)
 
 # [side by side](https://nextstrain.org/community/johnrolmstead/zika?p=grid)
+
+# [static content](https://nextstrain.org/community/johnrolmstead/zika)
