@@ -14,4 +14,4 @@ here is some content.
 
 - Second bullet point 
 
-# [animation] (https://nextstrain.org/community/johnrolmstead/zika?f_country=Singapore,Dominican%20Republic&p=full)
+# [animation] (https://nextstrain.org/community/johnrolmstead/zika?d=tree,map&f_country=Singapore,Dominican%20Republic&p=full)
